@@ -1,1 +1,6 @@
 # Invite Dev 
+
+
+
+# Invite Link 
+https://discord.com/api/oauth2/authorize?client_id=1110599307649892413&permissions=8&scope=bot
